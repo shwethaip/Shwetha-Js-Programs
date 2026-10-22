@@ -5,9 +5,12 @@
   "main": "index.js",
   "scripts": {},
   "keywords": [],
-  "type": "commonjs",
+  "type": "module",
   "devDependencies": {
     "@playwright/test": "^1.63.0",
     "@types/node": "^26.6.2"
+  },
+  "dependencies": {
+    "typescript": "^7.0.2"
   }
 }
