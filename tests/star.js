@@ -17,6 +17,5 @@ console.log("   "+"*".repeat(1)+"   ")
 }
 
 
-export let sum = (a,b)=>a+b
 //type annotation
 //running ts code
